@@ -7,4 +7,6 @@
 * [Medium](medium/README.md)
     * [2.Add Two Numbers](medium/2.Add Two Numbers.md)
     * [3.Longest Substring Without Repeating Characters](medium/3.Longest Substring Without Repeating Characters.md)
+* [Nginx](nginx/README.md)
+    * [1. last & break ](nginx/2.last & break .md)
 
