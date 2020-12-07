@@ -1,12 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [Easy](easy/README.md)
-    * [1.Two Sum](easy/1.Two Sum.md)
-    * [7.Reverse Integer](easy/7.Reverse Integer.md)
-* [Medium](medium/README.md)
-    * [2.Add Two Numbers](medium/2.Add Two Numbers.md)
-    * [3.Longest Substring Without Repeating Characters](medium/3.Longest Substring Without Repeating Characters.md)
-* [Nginx](nginx/README.md)
-    * [1. last & break ](nginx/2.last & break .md)
-
+* [基础](basic/README.md)
+    * [1.基本文件操作](basic/1.基本文件操作.md)
+    * [2.进程控制](basic/2.进程控制.md)
